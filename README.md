@@ -9,7 +9,7 @@ I'm a Backend Developer from Egypt, passionate about building scalable web appli
 - 🛠️ Interested in software architecture, performance optimization, and clean code
 - 🌱 Continuously improving my backend, Linux, networking, and DevOps skills
 - 🌍 Open to relocate to GCC countries
-- 📫 Contact me: **[Your Email Address]**
+- 📫 Contact me: **[Egypt,mansoura]**
 
 ---
 
